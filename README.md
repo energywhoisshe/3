@@ -5,6 +5,10 @@
 
 ##### This project simulates a fractal family unit or a revolving home structure between mom, daughter and daughter's girlfriend. Days and Nights are so yellow conceived from their 49 days cohabitation after the funeral. You look after new pattern with 21 boxes quoting trauma transforming techniques. Let the record desensitized and reprocessed.
 
+<br>
+<br>
+<br>
+
 ```
 Original Soundtracks by Stxrfxsh
     ❶ 3 Households (2021)
@@ -38,8 +42,16 @@ References (Published in Korean and Quoted in English by Cha Yeonså for this pr
     《Bulgasari Eating Iron 쇠를 먹는 불가사리》(정하섭, 길벗어린이, 1999)
 ```
 
+<br>
+<br>
+<br>
+
 <img src="https://user-images.githubusercontent.com/90887934/156071296-da3b38ed-182f-48b3-bda6-9d90ce30ef51.png">
 <img src="https://user-images.githubusercontent.com/90887934/156071307-837c59f4-c850-45c5-ad17-11b9460d5c15.png">
+
+<br>
+<br>
+<br>
 
 ```
 References (Published in Korean)
@@ -67,6 +79,10 @@ References (Published in Korean)
     《죽고 싶지만 살고 싶어서》(조제 외 10인, 글항아리, 2021)
     《아무도 알고 싶어하지 않는 이야기》(친족성폭력생존자12명, 텀블벅 독립출판, 2020)
 ```
+
+<br>
+<br>
+<br>
 
 `Cha Yeonså (b.1997, Seoul) works on performance, video, game, or writing. They are interested in observing each maturity and network between multiple bodies, minds and energies that survives inside deviant beings. / Last Updated on 2022.02 / energywhoisshe@gmail.com`
 
