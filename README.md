@@ -21,7 +21,6 @@ References (Published or Officially Translated in English)
 《Reborn ― Journal & Notebooks 1947~1963》(Susan Sontag, 김선형 옮김, 이후, 2013) 
 《Collected Poems》(Sylvia Plath, 박주영 옮김, 마음 산책, 2013)
 《올빼미의 없음》(배수아, 창비, 2010)
-
 《티벳 사자의 서》(파드마삼바바, 류시화, 정신세계사, 1995) 
 
 References (Published in Korean and Translated in English by Cha Yeonså for this project)
@@ -29,8 +28,6 @@ References (Published in Korean and Translated in English by Cha Yeonså for thi
 《원본 없는 판타지》(조혜영 외 13인, 후마니타스, 2020)
 《딸에 대하여》(김혜진, 민음사, 2017)
 《쇠를 먹는 불가사리》(정하섭, 길벗어린이, 1999)
-
-
 ```
 
 ```
@@ -50,7 +47,7 @@ Original References (Published or Officially Translated in Korean)
 《실비아 플라스 시 전집 Collected Poems》(Sylvia Plath, 박주영 옮김, 마음 산책, 2013)
 《올빼미의 없음》(배수아, 창비, 2010)
 《쇠를 먹는 불가사리》(정하섭, 길벗어린이, 1999)
-《티벳 사자의 서》(파드마삼바바, 류시화, 정신세계사, 1995) 
+《티벳 사자의 서》(파드마삼바바, 류시화, 정신세계사, 1995)
 ```
 
 `Cha Yeonså (b.1997, Seoul) / Last Updated on 2022.02 / energywhoisshe@gmail.com`
