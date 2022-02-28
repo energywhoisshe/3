@@ -49,7 +49,7 @@ References (Published in Korean)
     《언다잉 - 고통, 취약성, 필멸성, 의학, 예술, 시간, 꿈, 데이터, 소진, 암, 돌봄》(Anne Boyer, 양미래 옮김, 플레이타임, 2021
     《트러블과 함께하기 - 자식이 아니라 친척을 만들자》(Donna Haraway, 최유미 옮김, 마농지, 2021) 
     《몽마르트르 유서蒙馬特遺書》(구묘진邱妙津, 방철환 옮김, 움직씨, 2021)
-    《S&M 페미니스트》(Clarisse Thorn, 송경아 옮김, 여이연, 2020)
+    《S&M 페미니스트》(Clarisse Thorn, 송경아 옮김, 여성문화이론연구소, 2020)
     《원본 없는 판타지》(조혜영 외 13인, 후마니타스, 2020)
     《진실의 색: 미술 분야의 다큐멘탈리즘Die Farbe der Wahrheit: Dokumentarismen im Kunstfeld》(Hito Steyerl, 안규철 옮김, 워크룸프레스, 2019)
     《딸에 대하여》(김혜진, 민음사, 2017)
