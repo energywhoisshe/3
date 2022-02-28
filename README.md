@@ -61,6 +61,6 @@ References (Published in Korean)
     《아무도 알고 싶어하지 않는 이야기》(친족성폭력생존자12명, 텀블벅 독립출판, 2020)
 ```
 
-`Cha Yeonså (b.1997, Seoul) / Last Updated on 2022.02 / energywhoisshe@gmail.com`
+`Cha Yeonså (b.1997, Seoul) works on performance, video, game, or writing. They are interested in observing each maturity and network between multiple bodies, minds and energies that survives inside deviant beings. / Last Updated on 2022.02 / energywhoisshe@gmail.com`
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fenergywhoisshe%2F3&count_bg=%23555555&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=3&edge_flat=false)](https://hits.seeyoufarm.com)
