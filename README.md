@@ -9,7 +9,9 @@
 
 ```
 Original Soundtracks by Stxrfxsh
-    3 Households / SOS / Stxrfxsh
+    ❶ 3 Households (2021)
+    ❷ SOS (2021)
+    ❸ Stxrfxsh (2021)
 ```
 
 ```
