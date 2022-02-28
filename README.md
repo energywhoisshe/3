@@ -29,10 +29,10 @@ References (Published in English)
 
 References (Published in Korean and Quoted in English by Cha Yeonså for this project)
     〈Mother-Computer-Lesbian 마더-컴퓨터-레즈비언〉(조혜영 외 13인, 《Fantasy without Origin 원본 없는 판타지》, 후마니타스, 2020)
-    《Quantum Medicine 양자의학》(강길전, 돋을새김, 2013) 
-    《About My Daughter 딸에 대하여》(김혜진, 민음사, 2017)
-    《Bulgasari Eating Iron 쇠를 먹는 불가사리》(정하섭, 길벗어린이, 1999)
     《To the Bodies at 3am 새벽 세 시의 몸들에게》(전희경 외 3인, 봄날의책, 2020)
+    《About My Daughter 딸에 대하여》(김혜진, 민음사, 2017)
+    《Quantum Medicine 양자의학》(강길전, 돋을새김, 2013) 
+    《Bulgasari Eating Iron 쇠를 먹는 불가사리》(정하섭, 길벗어린이, 1999)
 ```
 
 ```
