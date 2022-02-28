@@ -13,23 +13,26 @@ Original Soundtracks by Stxrfxsh
 
 ```
 References (Published in English)
-《EMDR in the Treatment of Adults Abused as Children》(Laurel Parnell PhD, 김준기 외 2인 옮김, 수오서재, 2021) 
-《The Body Keeps The Score》(Bessel van der Kolk M.D., 제효영 옮김, 을유문화사, 2016)
-《The Undying: Pain, Vulnerability, Mortality, Medicine, Art, Time, Dreams, Data, Exhaustion, Cancer, and Care》(Anne Boyer, 양미래 옮김, 플레이타임, 2021
-《Staying with Trouble: Making Kin in the Chthulucene》(Donna Haraway, 최유미 옮김, 마농지, 2021) 
-《몽마르트르 유서 蒙馬特遺書》(구묘진, 방철환 옮김, 움직씨, 2021)
-《The S&M Feminist》(Clarisse Thorn, 송경아 옮김, 여이연, 2020)
-《진실의 색 Die Farbe der Wahrheit》(Hito Steyerl, 안규철 옮김, 워크룸프레스, 2019)
+《EMDR in the Treatment of Adults Abused as Children》(Laurel Parnell PhD, W. W. Norton & Company, 1999) 
+《The Body Keeps The Score》(Bessel van der Kolk M.D., Penguin Publishing Group, 2015)
+《The Undying: Pain, Vulnerability, Mortality, Medicine, Art, Time, Dreams, Data, Exhaustion, Cancer, and Care》(Anne Boyer, Picador Paper, 2020)
+《Staying with Trouble: Making Kin in the Chthulucene》(Donna Haraway, Duke University Press Books, 2016) 
+《Last Words from Montmartre》(Qiu Miaojin, translated by Ari Larissa Heinrich, NYRB Classics, 2014)
+《The S&M Feminist》(Clarisse Thorn, 2012)
+〈〉(Hito Steyerl, )
 《Reborn ― Journal & Notebooks 1947~1963》(Susan Sontag, 김선형 옮김, 이후, 2013) 
-《Collected Poems》(Sylvia Plath, 박주영 옮김, 마음 산책, 2013)
-《올빼미의 없음》(배수아, 창비, 2010)
-《티벳 사자의 서》(파드마삼바바, 류시화, 정신세계사, 1995) 
+〈Lady Lazarus〉(Sylvia Plath, 《Collected Poems》)
+〈The Non-Being of the Owl〉 (《올빼미의 없음》, 2010)
+《The Tibetan Book of the Dead》(2000) 
+《In the Darkroom》()
+《The Blindfold》()
 
 References (Published in Korean and Quoted in English by Cha Yeonså for this project)
-《양자의학 Quantum Medicine》(강길전, 돋을새김, 2013) 
-《원본 없는 판타지》(조혜영 외 13인, 후마니타스, 2020)
-《딸에 대하여》(김혜진, 민음사, 2017)
+《Quantum Medicine 양자의학》(강길전, 돋을새김, 2013) 
+〈Mother-Computer-Lesbian〉(조혜영 외 13인, 《Fantasy without Origin 원본 없는 판타지》, 후마니타스, 2020)
+《About My Daughter 딸에 대하여》(김혜진, 민음사, 2017)
 《쇠를 먹는 불가사리》(정하섭, 길벗어린이, 1999)
+《To the Bodies at 3am 새벽 세 시의 몸들에게》
 ```
 
 ```
