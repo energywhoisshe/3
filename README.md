@@ -33,7 +33,7 @@ References (Published in Korean and Translated in English by Cha Yeonså for thi
 ```
 
 ```
-Original References (Published or Officially Translated in Korean)
+References (Published or Officially Translated in Korean)
 《EMDR in the Treatment of Adults Abused as Children》(Laurel Parnell PhD, 김준기 외 2인 옮김, 수오서재, 2021) 
 《몸은 기억한다 The Body Keeps The Score》(Bessel van der Kolk M.D., 제효영 옮김, 을유문화사, 2016)
 《양자의학 Quantum Medicine》(강길전, 돋을새김, 2013) 
