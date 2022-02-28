@@ -42,12 +42,12 @@ References (Published in Korean and Quoted in English by Cha Yeonså for this pr
 
 ```
 References (Published in Korean)
-    《EMDR 마음의 상처 치유하기》(Laurel Parnell PhD, 김준기 외 2인 옮김, 수오서재, 2021) 
+    《EMDR 마음의 상처 치유하기 - 어린 시절 트라우마를 경험한 성인을 위한 EMDR 치료법》(Laurel Parnell PhD, 김준기 외 2인 옮김, 수오서재, 2021) 
     《몸은 기억한다》(Bessel van der Kolk M.D., 제효영 옮김, 을유문화사, 2016)
     《양자의학》(강길전, 돋을새김, 2013) 
     
     《언다잉 - 고통, 취약성, 필멸성, 의학, 예술, 시간, 꿈, 데이터, 소진, 암, 돌봄》(Anne Boyer, 양미래 옮김, 플레이타임, 2021
-    《트러블과 함께하기》(Donna Haraway, 최유미 옮김, 마농지, 2021) 
+    《트러블과 함께하기 - 자식이 아니라 친척을 만들자》(Donna Haraway, 최유미 옮김, 마농지, 2021) 
     《몽마르트르 유서蒙馬特遺書》(구묘진邱妙津, 방철환 옮김, 움직씨, 2021)
     《S&M 페미니스트》(Clarisse Thorn, 송경아 옮김, 여이연, 2020)
     《원본 없는 판타지》(조혜영 외 13인, 후마니타스, 2020)
