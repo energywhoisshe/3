@@ -8,8 +8,10 @@
 ##### This project simulates a fractal family unit or a revolving home structure between mom, daughter and daughter's girlfriend. Days and Nights are so yellow conceived from their 49 days cohabitation after the funeral. You look after new pattern with 21 boxes quoting trauma transforming techniques. Let the record desensitized and reprocessed.
 
 ```
-Soundtracks by Stxrfxsh
+Original Soundtracks by Stxrfxsh
+```
 
+```
 References (Published or Officially Translated in English)
 《EMDR in the Treatment of Adults Abused as Children》(Laurel Parnell PhD, 김준기 외 2인 옮김, 수오서재, 2021) 
 《The Body Keeps The Score》(Bessel van der Kolk M.D., 제효영 옮김, 을유문화사, 2016)
