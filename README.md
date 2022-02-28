@@ -8,6 +8,6 @@
 ##### This project simulates a fractal family unit or a revolving home structure between mom, daughter and daughter's girlfriend. Days and Nights are so yellow conceived from their 49 days cohabitation after the funeral. You look after new pattern with 21 boxes quoting trauma transforming techniques. Let the record desensitized and reprocessed.
 
 
-`Cha Yeonså (b.1997, Seoul) / Last Updated on 2022.02`
+`Cha Yeonså (b.1997, Seoul) / Last Updated on 2022.02 / energywhoisshe@gmail.com`
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fenergywhoisshe%2F3&count_bg=%23555555&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=3&edge_flat=false)](https://hits.seeyoufarm.com)
