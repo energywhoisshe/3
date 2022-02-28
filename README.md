@@ -1,5 +1,4 @@
-
-<img src="https://user-images.githubusercontent.com/90887934/156071259-de1bd226-de99-448f-bfb2-c35d91f465b4.png">
+![ezgif-4-e224f9b7b8](https://user-images.githubusercontent.com/90887934/156078772-bfeb75fa-2d4e-4497-be11-97c8ef2995c5.gif)
 
 ### 3 Households
 
