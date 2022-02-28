@@ -1,7 +1,5 @@
 
-<img src="https://user-images.githubusercontent.com/90887934/155982567-31eb7e00-b33b-455b-a9db-b4615f157fc0.png">
-<img src="https://user-images.githubusercontent.com/90887934/155981356-40457187-8938-440c-ba32-b4ec7eb4e881.png">
-<img src="https://user-images.githubusercontent.com/90887934/155981167-5903938e-f8cc-4a69-96ff-b628001557b6.png">
+<img src="https://user-images.githubusercontent.com/90887934/156071259-de1bd226-de99-448f-bfb2-c35d91f465b4.png">
 
 ### 3 Households
 
@@ -39,6 +37,9 @@ References (Published in Korean and Quoted in English by Cha Yeonså for this pr
     《Quantum Medicine 양자의학》(강길전, 돋을새김, 2013) 
     《Bulgasari Eating Iron 쇠를 먹는 불가사리》(정하섭, 길벗어린이, 1999)
 ```
+
+<img src="https://user-images.githubusercontent.com/90887934/156071296-da3b38ed-182f-48b3-bda6-9d90ce30ef51.png">
+<img src="https://user-images.githubusercontent.com/90887934/156071307-837c59f4-c850-45c5-ad17-11b9460d5c15.png">
 
 ```
 References (Published in Korean)
