@@ -27,7 +27,7 @@ References (Published in English)
     〈The Uncertainty Principle of Modern Documentarism〉(Hito Steyerl, 2007)
     《EMDR in the Treatment of Adults Abused as Children》(Laurel Parnell PhD, W. W. Norton & Company, 1999) 
     《The Blindfold》(Siri Hustvedt, Kindle Edition, 2012 / first published 1992)
-    〈Lady Lazarus〉(Sylvia Plath, 《Ariel》, Faber and Faber, 1965)
+    〈Lady Lazarus〉(Sylvia Plath, Edited by Ted Hughes, 《Collected Poems》, Kindle Edition, Faber and Faber, 2015/ first published 1981)
     《The Tibetan Book of the Dead》(Padmasambhava, Shambhala, 2000 / first published 1350)
 
 References (Published in Korean and Quoted in English by Cha Yeonså for this project)
