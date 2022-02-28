@@ -12,7 +12,7 @@ Original Soundtracks by Stxrfxsh
 ```
 
 ```
-References (Published or Officially Translated in English)
+References (Published in English)
 《EMDR in the Treatment of Adults Abused as Children》(Laurel Parnell PhD, 김준기 외 2인 옮김, 수오서재, 2021) 
 《The Body Keeps The Score》(Bessel van der Kolk M.D., 제효영 옮김, 을유문화사, 2016)
 《The Undying: Pain, Vulnerability, Mortality, Medicine, Art, Time, Dreams, Data, Exhaustion, Cancer, and Care》(Anne Boyer, 양미래 옮김, 플레이타임, 2021
@@ -25,7 +25,7 @@ References (Published or Officially Translated in English)
 《올빼미의 없음》(배수아, 창비, 2010)
 《티벳 사자의 서》(파드마삼바바, 류시화, 정신세계사, 1995) 
 
-References (Published in Korean and Translated in English by Cha Yeonså for this project)
+References (Published in Korean and Quoted in English by Cha Yeonså for this project)
 《양자의학 Quantum Medicine》(강길전, 돋을새김, 2013) 
 《원본 없는 판타지》(조혜영 외 13인, 후마니타스, 2020)
 《딸에 대하여》(김혜진, 민음사, 2017)
@@ -33,7 +33,7 @@ References (Published in Korean and Translated in English by Cha Yeonså for thi
 ```
 
 ```
-References (Published or Officially Translated in Korean)
+References (Published in Korean)
 《EMDR in the Treatment of Adults Abused as Children》(Laurel Parnell PhD, 김준기 외 2인 옮김, 수오서재, 2021) 
 《몸은 기억한다 The Body Keeps The Score》(Bessel van der Kolk M.D., 제효영 옮김, 을유문화사, 2016)
 《양자의학 Quantum Medicine》(강길전, 돋을새김, 2013) 
