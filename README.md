@@ -45,7 +45,7 @@ References (Published in Korean and Quoted in English by Cha Yeonså for this pr
 <br>
 <br>
 
-<img src="https://user-images.githubusercontent.com/90887934/156071296-da3b38ed-182f-48b3-bda6-9d90ce30ef51.png">
+<img src="https://user-images.githubusercontent.com/90887934/156080459-3b6207a1-c3d4-4f84-9d14-6469bd5698d4.png">
 <img src="https://user-images.githubusercontent.com/90887934/156071307-837c59f4-c850-45c5-ad17-11b9460d5c15.png">
 
 <br>
