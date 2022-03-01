@@ -84,6 +84,14 @@ References (Published in Korean)
 <br>
 <br>
 
+```
+History
+    ver.0.5 (KOR) prototyped on 2021.11
+    ver.1 (KOR) exhibited on 2021.11.14 ~ 12.19
+    ver.1.5 (KOR) exhibited on 2022.01.19 ~ 2022.01.30 
+    ver.2 (ENG) 2022.2.28 not for public release yet 
+```
+
 `Cha Yeonså (b.1997, Seoul) works on performance, video, game, or writing. They are interested in observing each maturity and network between multiple bodies, minds and energies that survives inside deviant beings. / Last Updated on 2022.02 / energywhoisshe@gmail.com`
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fenergywhoisshe%2F3&count_bg=%23555555&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=3&edge_flat=false)](https://hits.seeyoufarm.com)
