@@ -4,7 +4,7 @@
 
 ##### This project simulates a fractal family unit or a revolving home structure between mom, daughter and daughter's girlfriend. Days and Nights are so yellow conceived from their 49 days cohabitation after the funeral. You look after new pattern with 21 boxes quoting trauma transforming techniques. Let the record desensitized and reprocessed.
 
-<img src = "https://user-images.githubusercontent.com/90887934/156081425-a5791aa7-7c86-42de-b633-5f289ce2f4a1.png" height = "20">
+<img src = "https://user-images.githubusercontent.com/90887934/156081425-a5791aa7-7c86-42de-b633-5f289ce2f4a1.png" height = "20"> <img src = "https://user-images.githubusercontent.com/90887934/156082141-32380fd8-e7c8-4f51-9937-c43996d0f5a7.png">
 
 <br>
 <br>
