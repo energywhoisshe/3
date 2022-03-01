@@ -86,9 +86,9 @@ References (Published in Korean)
 
 ```
 History 
-    ver.2 (ENG) 2022.2.28 not for public release yet 
+    ver.2   (ENG) prototyped on 2022.2.28 not for public release yet
     ver.1.5 (KOR) exhibited on 2022.01.19 ~ 2022.01.30 
-    ver.1 (KOR) exhibited on 2021.11.14 ~ 12.19 
+    ver.1   (KOR) exhibited on 2021.11.14 ~ 12.19 
     ver.0.5 (KOR) articled on 2021.11
     ver.0.5 (KOR) prototyped on 2021.11
 ```
