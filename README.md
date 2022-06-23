@@ -86,7 +86,7 @@ References (Published in Korean)
 
 ```
 History 
-    ver.0.2.0 (ENG) prototyped on 2022.2.28 not for public release yet
+    ver.0.2.0 (ENG) prototyped on 2022.2.28
     ver.0.1.3 (KOR) exhibited on 2022.01.19 ~ 2022.01.30 
     ver.0.1.2 (KOR) exhibited on 2021.11.14 ~ 12.19 
     ver.0.1.1 (KOR) articled on 2021.11
